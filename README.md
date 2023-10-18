@@ -50,18 +50,18 @@ yarn start
 The password strength is determined based on the following criteria:
 
 Strong Password: A strong password must meet all of the following criteria:
-
 At least 8 characters long
 At least one uppercase letter
 At least one lowercase letter
 At least one digit (0-9)
 At least one special character (e.g., @, #, $)
-Good Password: A good password must meet all of the following criteria:
 
+Good Password: A good password must meet all of the following criteria:
 At least 8 characters long
 At least one of the following:
 Uppercase letter
 Lowercase letter
 Special character
 At least one digit (0-9)
+
 Poor Password: Any password that does not meet the criteria for strong or good passwords.
