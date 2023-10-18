@@ -1,0 +1,44 @@
+.reset-container {
+    padding: 2em;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.password-strength {
+    font-weight: 600;
+    font-size: 12px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    color : white;
+    text-align: center;
+    padding: 2px;
+}
+
+.Poor {
+    background-color: #BB2124;
+}
+
+.Good {
+    background-color: #f0ad4e;
+}
+
+.Strong {
+    background-color: #22bb33;
+}
+
+.divider {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color : #ff0505;
+}
+
+@media only screen and (max-width: 500px) {
+    .reset-container {
+        padding: 1em;
+    }
+  }
+  
